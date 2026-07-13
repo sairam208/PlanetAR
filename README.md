@@ -12,7 +12,7 @@ Planets AR provides an interactive way to learn about the Solar System by allowi
 
 ## 📱 Home Screen
 
-![Home Screen](images/home_screen.png)
+![Home Screen](images/homecreen.jpeg)
 
 ---
 <!--

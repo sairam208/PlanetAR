@@ -15,6 +15,12 @@ Planets AR provides an interactive way to learn about the Solar System by allowi
 ![Home Screen](images/HomeScreen.jpeg)
 
 ---
+## Demo Video
+
+
+https://github.com/user-attachments/assets/dfd23e6b-ffcc-4b71-9e86-e26723200afc
+
+
 <!--
 ## 🌍 Earth in AR
 
